@@ -1,4 +1,5 @@
-# GitPitch - The Template
+# The Eye in the Sky -- IIT Patna
+
 
 *THE FASTEST WAY FROM IDEA TO PRESENTATION*
 
