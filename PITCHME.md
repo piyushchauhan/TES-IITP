@@ -1,6 +1,7 @@
 ---?color=linear-gradient(to right, #c02425, #f0cb35)
 @title[Introduction]
 
+![TES](http://inter-iit.tech/assets/images/portfolio/the-eye-in-the-sky.png)
 @snap[west text-25 text-bold text-white]
 The Eye in the Sky<br>IIT Patna
 @snapend
