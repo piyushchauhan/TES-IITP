@@ -2,11 +2,7 @@
 @title[Introduction]
 
 @snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
-@snapend
-
-@snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
+The Eye in the Sky<br>IIT Patna
 @snapend
 
 ---
